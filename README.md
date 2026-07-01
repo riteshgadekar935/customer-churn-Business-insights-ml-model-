@@ -92,6 +92,6 @@ The final model was selected based on Recall because correctly identifying custo
 
 Aspiring Data Scientist
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/ritesh-gadekar-973525296
 
-GitHub: (Your GitHub Profile)
+GitHub: https://github.com/riteshgadekar935
